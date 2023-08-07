@@ -39,10 +39,12 @@ params:
   systems:
     - name: Pinepods Docs
       category: Pinepods
+      description: "This is the Documentation Site. "
     - name: Pinepods Trial Site
       category: Pinepods
+      description: This is the Trial Pinepods Site for testing the app
     - name: Pinepods Search API
-      description: The web frontend for the application.
+      description: This is the search API for Podcast Index and Itunes searching
       category: Pinepods
       link: https://example.com/
   dateFormat: January 2, 2006 at 3:04 PM UTC
